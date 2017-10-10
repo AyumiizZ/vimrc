@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/ayumiizz/practicum'
+let g:netrw_dirhist_2='/home/ayumiizz/oop/friend/Project-Twin'
+let g:netrw_dirhist_3='/home/ayumiizz/Public'
+let g:netrw_dirhist_4='/home/ayumiizz/.vim/bundle'
+let g:netrw_dirhist_5='/home/ayumiizz/compro/week8'
