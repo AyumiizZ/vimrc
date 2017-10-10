@@ -1,8 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =6
-let g:netrw_dirhist_1='/usr/share/X11/xorg.conf.d'
-let g:netrw_dirhist_2='/home/srakrn/Works/204111/srakrn-venus/srakrn/programmes'
-let g:netrw_dirhist_3='/home/srakrn/Works/204111/srakrn-venus/srakrn/programmes/jplag'
-let g:netrw_dirhist_4='/home/srakrn/Works/204111/srakrn-venus/srakrn/programmes'
-let g:netrw_dirhist_5='/home/srakrn/Works/sophomore/practicum/29sep/boardmakes'
-let g:netrw_dirhist_6='/home/srakrn/Works/sophomore/oop_lab/01204215-project'
